@@ -1,0 +1,7 @@
+.thumbImg {
+  opacity: 0.5;
+  margin: 05px;
+}
+.thumbImgSelected {
+  opacity: initial;
+}

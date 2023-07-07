@@ -1,0 +1,14 @@
+.bgContainer {
+  width: 70%;
+  margin: 40px;
+}
+
+.img {
+  height: 500px;
+  width: 900px;
+}
+.thumbnailsContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
